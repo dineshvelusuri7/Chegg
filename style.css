@@ -1,0 +1,133 @@
+    .nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color:  #f733a5;
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    .study1>h5{
+        margin:0px 10px;
+    }
+    
+    .logo{
+        color: #b9ec00;
+        font-weight: bolder;
+        font-size: 30px;
+    }
+    .study2{
+        background-color: rgba(252, 161, 222, 0.719);
+        text-align: center;
+    
+        padding: 80px 30px;
+    
+    }
+    .study2>h1{
+       font-size: 45px;
+    
+    }
+    .study2>p{
+        font-weight: bolder;
+     
+     }
+    
+    .white-box{
+        background-color: white;
+        padding: 30px;
+        width: 900px;
+        margin: 20px auto;
+        text-align: start;
+        border-radius: 15px;
+    }
+    .white-box>textarea{
+        width: 100%;
+        border-radius: 15px;
+        border: 2px solid #b9ec00;
+    }
+    .study3>div{
+        width: 350px;
+    
+        display: flex;
+        align-items: center;
+    }
+    .study3>div>i{
+      font-size: 60px;
+      margin-right: 5px;
+    }
+    .study3{
+        display: flex;
+        align-items: center;
+        padding: 30px 70px;
+        justify-content: space-between;
+        background-color: #f733a5;
+    }
+    .study3>button{
+        background-color: #b9ec00;
+        padding: 0px 30px;
+        height: 50px;
+        font-weight: bolder;
+        font-size: 20px;
+        border-radius: 40px;
+        border: none;
+    
+    }
+    .img-flex-1>img{
+        height: 390px;
+    }
+    .img-flex-1>h1{
+       width: 500px;
+    }
+    .img-flex-1{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        /* background-color: blue; */
+        padding: 20px 190px;
+        
+    }
+    .orange-container{
+        background-color:  rgb(252, 161, 222);
+        padding: 70px 300px;
+        text-align: center;
+    }
+    .orange-container>h1{
+        font-size: 55px;
+    }
+    .orange-container>p{
+        font-size:30px;
+    }
+    .orange-container>button{
+        background-color: #b9ec00;
+        padding: 0px 30px;
+        height: 50px;
+        font-weight: bolder;
+        font-size: 20px;
+        border-radius: 40px;
+        border: none;
+    
+    }
+    .study4{
+        padding: 70px; 150px ;
+        padding-right: 150px;
+        font-size: 14px;
+        width:1250px;
+      }
+      .study5{
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+        padding-left: 0px 50px;
+        font-size: 16px;
+      }
+      .study6{
+        margin-top: 40px;
+      }
+        .final>i{
+        padding-left: 20px;
+      }
+      .final>img{
+        width:100px;
+        height:40px;
+        border-radius:10px;
+        padding:0px 20px;
+      }
